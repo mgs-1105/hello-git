@@ -1,0 +1,1 @@
+print("segun archivo del curso de git")
