@@ -4,4 +4,7 @@ class Product():
     name = str
     weight = int
     amount = int
+
+class Animal():
+    name = str
     
