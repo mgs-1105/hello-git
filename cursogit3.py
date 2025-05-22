@@ -8,3 +8,7 @@ class Product():
 class Animal():
     name = str
     
+class Group():
+    name = str
+    genero = str
+    
