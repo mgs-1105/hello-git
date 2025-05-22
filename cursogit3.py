@@ -10,5 +10,5 @@ class Animal():
     
 class Group():
     name = str
-    genero = str
+    genero = bool
      
